@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(60, 18, 0);
+    background-color: rgb(255, 248, 223);
+}
+li{
+    font-size: 13px;
+    color: rgb(104, 47, 9);
+}
+a{
+    font-weight: lighter;
+    color: #e09579;
+}    
+span{
+    font-size: 18px;
+}
+.links1 {
+    float: right;
+}
+/* .link2 I changed my mind and didn't add this div*/
+.bold{
+    font-weight: bold;
+}
+.header{
+   color: #e09579;
+   text-align: center;
+}
